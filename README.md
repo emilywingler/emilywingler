@@ -29,6 +29,7 @@
   <a href="https://medium.com/@wingleremily"><img scr ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div> 
 
+![Snake animation](https://github.com/emilywingler/emilywingler/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 - Encontrar os Badges de Status: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 - Formatação de arquivos Markdown: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#hiding-content-with-comments
